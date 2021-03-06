@@ -4,11 +4,12 @@
 ### Live version available here:
 App has hosted in this URL: https://albik66.github.io/Todolistx/
 
+
+## Term project for **Version 1.0.0**
 Email address: Mehmedalshaalan8818@gmail.com
 
 Demo Video: https://youtu.be/eItuFJRHM1o
 
-## Term project for **Version 1.0.0**
 ## _What is it?_
 This project is a functional Todo list application utilizing class components and the Web Storage API.
 ## _What does it show?_
