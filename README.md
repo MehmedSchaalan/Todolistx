@@ -20,7 +20,7 @@ This project demonstrates my (Mehmed Schaalan) ability to use class components t
 
 # Introduction
 Todolistx is performed particularly handy by JavaScript coding interactive lists that let users add, remove items, something you can’t do with HTML and CSS alone.
-1.  Managing ToDo items of each user.
+1.  Managing grocery todo items of each user.
 
 
 2.  Setting access rights of each user within the application.
@@ -42,12 +42,10 @@ watch: https://www.youtube.com/results?search_query=checklist+manifesto
 # Usage
 - To add a new todo
   - Enter todo text into the field with text *Enter new todo*
-  - Click the **+** icon to add it to the list
+  - Click the **Additems** icon to add it to the list
 - Click the **X** icon to delete a todo item
 - Click on the checkbox to toggle a todo item as completed
-- Click on the **tick** icon to select or unselect all
-- Click on the **trashcan** icon to delete all completed todo items
-- Double-click on the todo text to change the todo and press enter
+- Click on the **Clearitems** icon to delete all completed todo items
 
 ## _How?_
 Start by cloning this repository to our `localhost`
